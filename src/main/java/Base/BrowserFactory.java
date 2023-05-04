@@ -2,7 +2,6 @@ package Base;
 
 import org.openqa.selenium.chrome.ChromeOptions;
 import org.openqa.selenium.firefox.FirefoxOptions;
-import org.openqa.selenium.remote.DesiredCapabilities;
 
 import java.util.Collections;
 public class BrowserFactory {
